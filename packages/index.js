@@ -1,11 +1,15 @@
 // #region 导入组件
 import ZpmTest from "./test";
+import { AuthCode, Codes, Send } from "./auth-code";
 // #endregion
 
 // #region 存储组件列表
 const components = {
   // TODO 组件列表
-  ZpmTest
+  ZpmTest,
+  AuthCode,
+  Codes,
+  Send
 };
 // #endregion
 
