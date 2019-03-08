@@ -1,6 +1,6 @@
 // #region 导入组件
-import ZpmTest from "./test";
-import { AuthCode, Codes, Send } from "./auth-code";
+import ZpmTest from "./@zpm/test";
+import { AuthCode, Codes, Send } from "./@zpm/auth-code";
 // #endregion
 
 // #region 存储组件列表
