@@ -8,13 +8,13 @@
 </template>
 
 <script>
-import Test from "../../packages/test/";
+import Test from "../../packages/@zpm/test/";
 import {
   default as AuthCode,
   Codes,
   Send,
   TipMobile
-} from "../../packages/auth-code/";
+} from "../../packages/@zpm/auth-code/";
 console.log(
   "TCL: AuthCode, Codes, Send, TipMobile",
   AuthCode,
